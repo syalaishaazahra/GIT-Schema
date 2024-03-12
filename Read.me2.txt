@@ -1,0 +1,17 @@
+GitHub adalah platform pengembangan perangkat lunak yang berbasis web yang digunakan oleh pengembang perangkat lunak untuk menyimpan, mengelola, dan berkolaborasi dalam proyek perangkat lunak menggunakan sistem kontrol versi Git. Didirikan pada tahun 2008, GitHub telah menjadi salah satu platform yang paling populer di dunia untuk pengembangan perangkat lunak terbuka dan berbasis komunitas.
+
+Beberapa fitur utama GitHub meliputi:
+
+1. **Repositori**: Pengguna dapat membuat repositori untuk menyimpan kode sumber proyek mereka. Repositori ini dapat bersifat publik (dapat diakses oleh siapa pun) atau pribadi (hanya dapat diakses oleh pemilik dan kolaborator yang diundang).
+
+2. **Kolaborasi**: GitHub memungkinkan pengguna untuk berkolaborasi dalam pengembangan perangkat lunak dengan cara yang efisien. Pengguna dapat mengundang kolaborator untuk berkontribusi ke repositori mereka, memberikan umpan balik, melakukan peninjauan kode, dan lainnya.
+
+3. **Issue Tracking**: GitHub menyediakan fitur untuk melacak masalah (issues) yang ditemukan dalam proyek perangkat lunak. Hal ini memudahkan pengguna untuk melaporkan masalah, memperbaiki bug, dan mengelola perubahan yang perlu dilakukan dalam proyek.
+
+4. **Pull Requests**: Fitur pull request memungkinkan pengguna untuk mengusulkan perubahan kode ke repositori yang dikelola oleh orang lain. Ini adalah cara yang umum digunakan untuk berkontribusi ke proyek open source di GitHub.
+
+5. **Wiki dan Dokumentasi**: Pengguna dapat menggunakan fitur wiki untuk membuat dokumentasi proyek dan memberikan informasi tambahan kepada pengguna lainnya.
+
+6. **Integrasi**: GitHub mendukung berbagai macam integrasi dengan alat dan layanan lainnya, seperti Jenkins, Travis CI, Docker, dan banyak lagi, untuk memfasilitasi aliran kerja pengembangan perangkat lunak yang lebih lancar.
+
+GitHub telah menjadi titik fokus bagi komunitas pengembang perangkat lunak terbuka, serta perusahaan dan organisasi besar yang menggunakan GitHub untuk mengelola proyek internal mereka.
